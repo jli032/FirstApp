@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FirstApp</string>
-    <string name="input_text">Input Text</string>
-    <string name="send_text">Send</string>
+    <string name="input_text">Enter a Number</string>
+    <string name="add_text">Add</string>
 </resources>
