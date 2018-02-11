@@ -2,4 +2,5 @@
     <string name="app_name">FirstApp</string>
     <string name="input_text">Enter a Number</string>
     <string name="add_text">Add</string>
+    <string name="result_text">Result</string>
 </resources>
